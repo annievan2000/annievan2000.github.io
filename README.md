@@ -1,3 +1,3 @@
 # Annie Van
 ## Software Engineer
-![Portrait of me](/me.png)
+![Portrait of me](/annievan2000.github.io/me.png)
