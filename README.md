@@ -50,7 +50,7 @@ int main()
   * Technical Program Manager at CodePath
 
 * Extra
-[Relative Link Example](/index.md)
+  * [Relative Link Example](/index.md)
 
 ## Personal
 
