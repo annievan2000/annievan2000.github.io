@@ -44,6 +44,11 @@ int main()
       * Excel is amazing
       * NPV, FV, interest, etc
 
+* Experiences
+  * SWE intern at Benchmark Labs
+  * Backend Developer in WIC Summer Development Program
+  * Technical Program Manager at CodePath
+
 ## Personal
 
 My philosophy in life:
