@@ -2,7 +2,7 @@
 ## Software Engineer
 [Welcome to my README file](/README.md)
 
-![Portrait of me](/me.png =60x100)
+![Portrait of me](/me.png){:height="60px" width="100px"}
 
 I am a 3rd year undergraduate at UCSD majoring in Computer Science and minoring in Business. I am interested in <span style="font-family:Brush Script MT; font-size:4em;">Software Engineering</span> and <span style="font-family:Brush Script MT; font-size:4em;">Product Management</span> roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
 
