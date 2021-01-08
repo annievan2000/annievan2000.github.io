@@ -1,15 +1,23 @@
 # Annie Van 
 ## Software Engineer
-[Welcome to my README file](/README.md)
 
-<span style="width:30px; height:50px;">![Portrait of me](/me.png)</span>
+## Table of Contents
+1. [Welcome to my README file](/README.md)
+2. [About Me](#about-me)
+3. [About the Code](#about-the-code)
+4. [Personal](#personal)
+5. [Contact](#contact)
 
-I am a 3rd year undergraduate at UCSD majoring in Computer Science and minoring in Business. I am interested in <span style="font-family:Brush Script MT; font-size:4em;">Software Engineering</span> and <span style="font-family:Brush Script MT; font-size:4em;">Product Management</span> roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
+## About Me
+![Portrait of me](/me.png)
 
-My philosophy in life:
-> Be comfortable with being uncomfortable
+I am a 3rd year undergraduate at UCSD majoring in **Computer Science** and minoring in **Business**. I am interested in * *Software Engineering and Product Management* * roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
 
-This is a simple program to in my favorite programming language, C++.
+## About the Code
+UCSD Department motto:
+> Start early, start often.
+
+This is a ~~simple~~ ***totally amazing!*** program to in my favorite programming language, C++.
 ``` c
 #include <iostream>
 using namespace std;
@@ -20,11 +28,22 @@ int main()
 }
 ```
 
-* My favorite courses @ UCSD:
+* My **favorite** courses @ * *UCSD* *:
     * CSE 12
+      * Earned first A in a CS course
     * CSE 105
+      * Loved Prof. Mia
     * CSE 150B
+      * AI Search and Reasoning
+      * So cool, built a bot that plays 2024 and Alpha Go
     * MGT 181
+      * Excel is amazing
+      * NPV, FV, interest, etc
+
+## Personal
+
+My philosophy in life:
+> Be comfortable with being uncomfortable
 
 ### Junior Year Bucketlist
 
@@ -50,7 +69,7 @@ int main()
 - [ ] Rollerblading
 - [ ] TA
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-van-267086171/). 
-Thank you for visiting my introduction page. If you would like to schedule a coffee chat, please view my [calendar](https://calendar.google.com/calendar/u/0/embed?src=amvan%40ucsd.edu&ctz=America%2FLos_Angeles&mode=week&fbclid=IwAR1EFM3VFE85h236tOAwvrl_7pWJMf1x4mDrdx9G0FRe9hhSoaZjP7wWA1g) for my availability. 
+## Contact
 
-[Go to the top](#annie-van)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-van-267086171/). 
+Thank you for visiting my introduction page. If you would like to schedule a ***coffee chat***, please view my [calendar](https://calendar.google.com/calendar/u/0/embed?src=amvan%40ucsd.edu&ctz=America%2FLos_Angeles&mode=week&fbclid=IwAR1EFM3VFE85h236tOAwvrl_7pWJMf1x4mDrdx9G0FRe9hhSoaZjP7wWA1g) for my availability. 
