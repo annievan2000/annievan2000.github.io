@@ -2,9 +2,9 @@
 ## Software Engineer
 [Welcome to my README file](/README.md)
 
-![Portrait of me](/me.png)
+![Portrait of me](/me.png =60x100)
 
-I am a 3rd year undergraduate at UCSD majoring in Computer Science and minoring in Business. I am interested in <span style="font-family:Great-Vibes; font-size:4em;">Software Engineering</span> and <span style="font-family:Great-Vibes; font-size:4em;">Product Management</span> roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
+I am a 3rd year undergraduate at UCSD majoring in Computer Science and minoring in Business. I am interested in <span style="font-family:Brush Script MT; font-size:4em;">Software Engineering</span> and <span style="font-family:Brush Script MT; font-size:4em;">Product Management</span> roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
 
 My philosophy in life:
 > Be comfortable with being uncomfortable
@@ -52,4 +52,5 @@ int main()
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-van-267086171/). 
 Thank you for visiting my introduction page. If you would like to schedule a coffee chat, please view my [calendar](https://calendar.google.com/calendar/u/0/embed?src=amvan%40ucsd.edu&ctz=America%2FLos_Angeles&mode=week&fbclid=IwAR1EFM3VFE85h236tOAwvrl_7pWJMf1x4mDrdx9G0FRe9hhSoaZjP7wWA1g) for my availability. 
+
 [Go to the top](#annie-van)
