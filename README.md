@@ -74,12 +74,14 @@ My philosophy in life:
 - [ ] TA
 
 - Favorite Food Places in SD
-  - ![Extraordinary Desserts](/desserts.jpg)
-  - ![Tacos El Gordo](/teg.jpg)
-  - ![Tasty Noodle House](/tastynoodlehouse.jpg)
-  - ![Kogi](/kogi.jpg)
-
-
+  - Extraordinary Desserts
+    - ![Extraordinary Desserts](/desserts.jpg)
+  - Tacos El Gordo
+    - ![Tacos El Gordo](/teg.JPG)
+  - Tasty Noode House
+    - ![Tasty Noodle House](/tastynoodlehouse.jpg)
+  - Kogi
+    - ![Kogi](/kogi.jpg)
 
 ## Contact
 
