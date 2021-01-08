@@ -11,24 +11,28 @@
 ## About Me
 ![Portrait of me](/me.png)
 
-I am a 3rd year undergraduate at UCSD majoring in **Computer Science** and minoring in **Business**. I am interested in * *Software Engineering and Product Management* * roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
+I am a 3rd year undergraduate at UCSD majoring in **Computer Science** and minoring in **Business**. I am interested in *Software Engineering and Product Management* roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
 
 ## About the Code
-UCSD Department motto:
+Wise Words:
 > Start early, start often.
 
-This is a ~~simple~~ ***totally amazing!*** program to in my favorite programming language, C++.
+This is a ~~simple~~ ***totally amazing*** snippet of code to in my favorite programming language, C++.
 ``` c
 #include <iostream>
 using namespace std;
 int main()
 {
     cout << "enjoys baking, watching Youtube videos, and traveling";
-    return 0;
+    if(angry){
+        cout <<"please feed";
+    }
+    return to_the_nearest_trendy_coffee_shop;
+    
 }
 ```
 
-* My **favorite** courses @ * *UCSD* *:
+* My **favorite** courses @ *U C S D*:
     * CSE 12
       * Earned first A in a CS course
     * CSE 105
@@ -72,4 +76,4 @@ My philosophy in life:
 ## Contact
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-van-267086171/). 
-Thank you for visiting my introduction page. If you would like to schedule a ***coffee chat***, please view my [calendar](https://calendar.google.com/calendar/u/0/embed?src=amvan%40ucsd.edu&ctz=America%2FLos_Angeles&mode=week&fbclid=IwAR1EFM3VFE85h236tOAwvrl_7pWJMf1x4mDrdx9G0FRe9hhSoaZjP7wWA1g) for my availability. 
+Thank you for visiting my introduction page. If you would like to schedule a ***coffee chat***, please check my [calendar](https://calendar.google.com/calendar/u/0/embed?src=amvan%40ucsd.edu&ctz=America%2FLos_Angeles&mode=week&fbclid=IwAR1EFM3VFE85h236tOAwvrl_7pWJMf1x4mDrdx9G0FRe9hhSoaZjP7wWA1g) for my availability. 
