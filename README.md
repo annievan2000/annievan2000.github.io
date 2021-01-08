@@ -33,14 +33,14 @@ int main()
 ```
 
 * My **favorite** courses @ *U C S D*:
-    * CSE 12
+    * [CSE 12](http://www.gradesource.com/reports/7/31273/index.html)
       * Earned first A in a CS course
-    * CSE 105
+    * [CSE 105](https://cseweb.ucsd.edu/classes/sp20/cse105-ab/)
       * Loved Prof. Mia
-    * CSE 150B
+    * [CSE 150B](https://scungao.github.io/)
       * AI Search and Reasoning
       * So cool, built a bot that plays 2024 and Alpha Go
-    * MGT 181
+    * [MGT 181](https://courses.ucsd.edu/syllabi/FA09/666374.pdf)
       * Excel is amazing
       * NPV, FV, interest, etc
 
@@ -72,6 +72,14 @@ My philosophy in life:
 - [ ] TJ
 - [ ] Rollerblading
 - [ ] TA
+
+- Favorite Food Places in SD
+  - ![Extraordinary Desserts](/desserts.jpg)
+  - ![Tacos El Gordo](/teg.jpg)
+  - ![Tasty Noodle House](/tastynoodlehouse.jpg)
+  - ![Kogi](/kogi.jpg)
+
+
 
 ## Contact
 
