@@ -1,6 +1,6 @@
-# Annie Van {#av}
+# Annie Van 
 ## Software Engineer
-[Welcome to my README file](README.md)
+[Welcome to my README file](/README.md)
 
 ![Portrait of me](/me.png)
 My philosophy in life:
@@ -18,10 +18,10 @@ int main()
 ```
 
 * My favorite courses @ UCSD:
-    * CSE 12
-    * CSE 105
-    * CSE 150B
-    * MGT 181
+    * <span style="color:red">CSE 12</span>
+    * <span style="color:green">CSE 105</span>
+    * <span style="color:blue">CSE 150B</span>
+    * <span style="color:yellow">MGT 181</span>
 
 ### Junior Year Bucketlist
 
@@ -49,4 +49,4 @@ int main()
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/annie-van-267086171/). 
 Thank you for visiting my introduction page. If you would like to schedule a coffee chat, please view my [calendar](https://calendar.google.com/calendar/u/0/embed?src=amvan%40ucsd.edu&ctz=America%2FLos_Angeles&mode=week&fbclid=IwAR1EFM3VFE85h236tOAwvrl_7pWJMf1x4mDrdx9G0FRe9hhSoaZjP7wWA1g) for my availability. 
-[Go to the top](#annie-van-av)
+[Go to the top](#annie-van)
