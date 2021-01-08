@@ -3,6 +3,9 @@
 [Welcome to my README file](/README.md)
 
 ![Portrait of me](/me.png)
+
+I am a 3rd year undergraduate at UCSD majoring in Computer Science and minoring in Business. I am interested in <span style="font-family:Great-Vibes; font-size:4em;">Software Engineering</span> and <span style="font-family:Great-Vibes; font-size:4em;">Product Management</span> roles. I enjoy working with people to bring a vision to life. In the future, I hope to build ethical algorithms in the tech industry and innovate accsesible tools for people to use around the world. 
+
 My philosophy in life:
 > Be comfortable with being uncomfortable
 
@@ -18,10 +21,10 @@ int main()
 ```
 
 * My favorite courses @ UCSD:
-    * <span style="color:red">CSE 12</span>
-    * <span style="color:green">CSE 105</span>
-    * <span style="color:blue">CSE 150B</span>
-    * <span style="color:yellow">MGT 181</span>
+    * CSE 12
+    * CSE 105
+    * CSE 150B
+    * MGT 181
 
 ### Junior Year Bucketlist
 
